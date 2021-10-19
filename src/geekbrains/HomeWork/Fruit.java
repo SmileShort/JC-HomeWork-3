@@ -8,4 +8,5 @@ public class Fruit {
         return weight;
     }
 
+
 }
