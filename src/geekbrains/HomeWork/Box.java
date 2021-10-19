@@ -24,4 +24,5 @@ public class Box<T extends Fruit> {
         else
             return false;
     }
+
 }
